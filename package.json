@@ -1,0 +1,24 @@
+{
+  "name": "chatbees-chat-widget",
+  "version": "1.0.0",
+  "description": "ChatBees demo popup chat widget",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChatBees/chatbees-chat-widget.git"
+  },
+  "keywords": [
+    "ChatBees",
+    "chat",
+    "widget"
+  ],
+  "author": "ChatBees",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ChatBees/chatbees-chat-widget/issues"
+  },
+  "homepage": "https://github.com/ChatBees/chatbees-chat-widget#readme"
+}
